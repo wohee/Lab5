@@ -1,0 +1,49 @@
+body{
+	background: url('space.jpg');
+	background-size: cover;
+}
+h1{
+	font-family: 'Cairo', sans-serif;
+	color: #FFFFFF;
+	font-size: 5em;
+	text-align: center;
+}
+h3{
+	font-family: 'Cairo', sans-serif;
+	color: #FFFFFF;
+	font-size: 3em;
+	text-align: center;
+}
+.planetname{
+	font-family: 'Courgette', cursive;
+	background-color: Salmon;
+	color: #FFFFFF;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	height: 80px;
+
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+
+}
+th{
+	font-family: 'Shadows Into Light', cursive;
+	background-color: SteelBlue;
+	font-size: 1.3em;
+	width: 80px;
+	height: 90px;
+	text-align: center;
+	border: 1px;
+
+}
+td{
+	font-family: 'Montserrat', sans-serif;
+	background-color: MistyRose;
+	font-size: 1em;
+	text-align: center;
+	border: 1px;
+}
